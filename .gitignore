@@ -1,0 +1,14 @@
+# Datos sensibles de la DIAN — NO subir al repositorio (NITs, nombres, cifras reales)
+*.zip
+*.xlsx
+DOCUMENTOS*
+
+# Archivos temporales de build
+_lib/
+_template.html
+_verify*.js
+_verify_out.xlsx
+
+# Sistema
+Thumbs.db
+.DS_Store
